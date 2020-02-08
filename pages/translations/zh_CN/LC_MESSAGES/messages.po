@@ -16,7 +16,7 @@ msgstr "AMP 商标素材"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
 msgid "AMP Caches & CORS"
-msgstr ""
+msgstr "AMP 缓存 & 跨域"
 
 #: /views/partials/footer.j2:71
 msgid "AMP Conf 2019"
@@ -40,7 +40,7 @@ msgstr "AMP HTML 规范"
 
 #: /content/amp-dev/support/faq/overview.md
 msgid "AMP Overview"
-msgstr "AMP 概览"
+msgstr "AMP 总览"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
 msgid "AMP for Email Specification"
@@ -72,7 +72,7 @@ msgstr "高阶课程"
 
 #: /views/partials/search.j2:130
 msgid "Although there are {hits} hits in total we cannot show more than 100."
-msgstr ""
+msgstr "尽管总共有 {hits} 个匹配，但我们无法展示超过 100 个。"
 
 #: /views/examples/documentation.j2:212
 msgid "An unexplained feature?"
@@ -84,7 +84,7 @@ msgstr "动画 & 过渡"
 
 #: /content/amp-dev/about/stories.html
 msgid "App Install"
-msgstr "App 安装"
+msgstr "安装应用"
 
 #: /content/amp-dev/about/stories.html
 msgid "BBC"
@@ -96,11 +96,11 @@ msgstr "返回至桌面"
 
 #: /views/examples/preview.j2:28
 msgid "Back to sample"
-msgstr "返回至案例"
+msgstr "返回至实例"
 
 #: /views/partials/case-grid.j2:30
 msgid "Band Page in AMP"
-msgstr ""
+msgstr "AMP 制成的乐队页面"
 
 #: /content/amp-dev/documentation/courses/beginning-course/_blueprint.yaml
 msgid "Beginning Course"
@@ -123,6 +123,8 @@ msgid ""
 "Camp Fire Visual Essay - A ballet rises from the ashes in a fire scarred "
 "paradise"
 msgstr ""
+"Camp Fire Visual Essay - A ballet rises from the ashes in a fire scarred "
+"paradise"
 
 #: /content/amp-dev/community/_blueprint.yaml /views/partials/footer.j2:61
 msgid "Community"
@@ -149,7 +151,7 @@ msgstr "HTML 转换成 AMP"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/develop/interactive_widget/_blueprint.yaml
 msgid "Create a custom interactive widget with amp-script"
-msgstr "使用 amp-script 创建一个"
+msgstr "使用 amp-script 制作一个自定义互动小组件"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/develop/login_requiring/_blueprint.yaml
 msgid "Create a login-requiring AMP page"
@@ -173,7 +175,7 @@ msgstr "制作您的第一个 AMPHTML 广告"
 
 #: /views/partials/structured-data.j2:56
 msgid "Demo: "
-msgstr "Demo"
+msgstr "演示："
 
 #: /views/partials/footer.j2:56
 msgid "Design Templates"
@@ -185,7 +187,7 @@ msgstr "开发"
 
 #: /views/partials/consent.j2:28
 msgid "Dismiss consent"
-msgstr ""
+msgstr "撤销同意"
 
 #: /views/partials/footer.j2:50
 msgid "Docs"
@@ -211,7 +213,7 @@ msgstr "使用我们的模板轻松构建用户至上的网站"
 
 #: /views/examples/documentation.j2:216
 msgid "Edit sample on GitHub"
-msgstr "在 GitHub 上编辑案例"
+msgstr "在 GitHub 上编辑实例"
 
 #: /views/partials/case-grid.j2:22
 msgid "Editorial AMP Article"
@@ -221,7 +223,7 @@ msgstr "AMP 社论文章"
 msgid ""
 "Enable the experiment via the button below. Some components require the AMP "
 "Dev Channel to be enabled as well."
-msgstr ""
+msgstr "使用下方按钮启用实验。某些组件需要同时启用 AMP Dev Channel。"
 
 #: /content/amp-dev/events/_blueprint.yaml /views/partials/footer.j2:69
 msgid "Events"
@@ -229,11 +231,11 @@ msgstr "活动"
 
 #: /content/tests/examples/_blueprint.yaml
 msgid "Example Source Code"
-msgstr ""
+msgstr "示例源代码"
 
 #: /views/partials/structured-data.j2:54
 msgid "Example: "
-msgstr ""
+msgstr "示例："
 
 #: /content/amp-dev/documentation/examples/_blueprint.yaml
 #: /views/partials/component-examples-list.j2:10 /views/partials/footer.j2:55
@@ -254,7 +256,7 @@ msgstr "关注我们 "
 
 #: /views/detail/component-detail.j2:39
 msgid "Found a bug or missing a feature?"
-msgstr "找到一个 bug 或者缺失某个功能？"
+msgstr "找到一个 bug 或者缺失某项功能？"
 
 #: /views/partials/footer.j2:46
 msgid "Functionality"
@@ -273,6 +275,8 @@ msgid ""
 "Get started quickly with a ready-made design. Templates designed to work with"
 " all devices - mobile, tablet and desktop."
 msgstr ""
+"使用现成的设计快速入门。"
+"模板适用于所有设备 - 手机，平板和电脑。"
 
 #: /content/amp-dev/documentation/courses/teachers.md:9
 msgid "Get the courses"
@@ -302,7 +306,9 @@ msgstr "如何在不知道如何编程的情况下构建 AMP ?"
 msgid ""
 "If the explanations on this page don't cover all of your questions feel free "
 "to reach out to other AMP users to discuss your exact use case."
-msgstr "如果此页面上的解释无法解决您的所有问题"
+msgstr ""
+"如果此页面的说明未能涵盖您的所有问题，"
+"欢迎与其他 AMP 用户取得联系，讨论您的具体用例。"
 
 #: /views/partials/search.j2:186
 msgid "Important Components"
@@ -310,7 +316,7 @@ msgstr "重要组件"
 
 #: /views/partials/content.j2:24
 msgid "Important: this component does not support your currently selected format"
-msgstr ""
+msgstr "重要：此组件不支持您目前所选格式"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/develop/media_iframes_3p/_blueprint.yaml
 msgid "Include media, iframes & third-party content"
@@ -348,7 +354,7 @@ msgstr "标志"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/develop/monetization/_blueprint.yaml
 msgid "Monetize your AMP page with ads"
-msgstr "通过广告让您的 AMP 页面上盈利"
+msgstr "通过您 AMP 页面上的广告获利"
 
 #: /content/amp-dev/about/stories.html
 msgid "Multiple Image"
@@ -372,7 +378,7 @@ msgstr "无搜索结果"
 
 #: /content/amp-dev/about/stories.html
 msgid "Nueve hoteles en los que tienes que dormir antes de morir"
-msgstr ""
+msgstr "Nueve hoteles en los que tienes que dormir antes de morir"
 
 #: /views/partials/footer.j2:9
 msgid "Of course, this site is made with AMP!"
@@ -380,11 +386,11 @@ msgstr "当然了，这个网站是用 AMP 制作的！"
 
 #: /views/partials/case-grid.j2:50
 msgid "Open Use Case"
-msgstr "开放使用案例"
+msgstr "开放用例"
 
 #: /views/partials/search.j2:99 /views/partials/search.j2:200
 msgid "Open example"
-msgstr "开放案例"
+msgstr "开放示例"
 
 #: /views/examples/documentation.j2:144 /views/partials/search.j2:106
 #: /views/partials/search.j2:207
@@ -406,7 +412,7 @@ msgstr "总览"
 
 #: /content/amp-dev/about/stories.html
 msgid "PCGamesN"
-msgstr ""
+msgstr "PCGamesN"
 
 #: /views/partials/case-grid.j2:14
 msgid "Parallax Storytelling in AMP"
@@ -446,7 +452,7 @@ msgstr "隐私政策"
 
 #: /content/amp-dev/about/stories.html
 msgid "Protecting the Antarctic - A journey to a continent in distress"
-msgstr ""
+msgstr "Protecting the Antarctic - A journey to a continent in distress"
 
 #: /content/amp-dev/support/faq/publisher-monetization.md
 msgid "Publisher Monetization"
@@ -462,7 +468,7 @@ msgstr "路线图"
 
 #: /content/amp-dev/about/stories.html
 msgid "SF Chronicle"
-msgstr ""
+msgstr "SF Chronicle"
 
 #: /views/partials/case-grid.j2:53
 msgid "Screenshot of use case:"
@@ -474,11 +480,11 @@ msgstr "搜索"
 
 #: /views/partials/case-grid.j2:66
 msgid "See all use cases"
-msgstr "查看所有使用案例"
+msgstr "查看所有用例"
 
 #: /views/partials/teaser-grid.j2:135 /views/partials/teaser.j2:137
 msgid "See example"
-msgstr "查看"
+msgstr "查看示例"
 
 #: /content/amp-dev/about/success-stories/index.html:14
 msgid "See what others have built"
@@ -502,11 +508,11 @@ msgstr "单个视频"
 
 #: /content/amp-dev/offline.html:14
 msgid "Something cut the line."
-msgstr ""
+msgstr "连接被切断"
 
 #: /content/amp-dev/500.html:15
 msgid "Something went terribly wrong. Why don't you browse around?"
-msgstr ""
+msgstr "出现严重差错。为何不随便逛逛？"
 
 #: /views/partials/search.j2:144
 msgid "Something went wrong while trying to load more search results."
@@ -531,16 +537,16 @@ msgstr "样式导引"
 #: /content/amp-dev/about/success-stories/_blueprint.yaml
 #: /content/amp-dev/about/success-stories/index.html
 msgid "Success Stories"
-msgstr "成功故事"
+msgstr "成功案例"
 
 #: /views/partials/structured-data.j2:60
 msgid "Success Story: "
-msgstr "成功故事："
+msgstr "成功案例："
 
 #: /content/amp-dev/about/success-stories/index.html:15
 #: /views/partials/footer.j2:45
 msgid "Success stories"
-msgstr "成功故事"
+msgstr "成功案例"
 
 #: /content/amp-dev/support/_blueprint.yaml /views/partials/breadcrumbs.j2:104
 msgid "Support"
@@ -565,26 +571,29 @@ msgid ""
 " also welcome one-off contributions for the issues you're particularly "
 "passionate about."
 msgstr ""
+"AMP 项目强烈鼓励您参与其中并作出贡献！"
+"我们希望您能成为我们开源社区的持续参与者，"
+"但我们也欢迎您对热衷的问题做出单次贡献。"
 
 #: /content/amp-dev/about/stories.html
 msgid "The Amazon Gold Rush"
-msgstr "亚马逊淘金热"
+msgstr "The Amazon Gold Rush"
 
 #: /content/amp-dev/about/stories.html
 msgid "The Atlantic"
-msgstr "大西洋月刊"
+msgstr "The Atlantic"
 
 #: /content/amp-dev/about/stories.html
 msgid "The Ice Cream Factory and the Rise of the Made-for-Instagram Museum | WIRED"
-msgstr "冰淇淋工厂与为 Instagram 制造型博物馆的崛起 | WIRED"
+msgstr "The Ice Cream Factory and the Rise of the Made-for-Instagram Museum | WIRED"
 
 #: /content/amp-dev/about/stories.html
 msgid "The Washington Post"
-msgstr "华盛顿邮报"
+msgstr "The Washington Post"
 
 #: /content/amp-dev/about/stories.html
 msgid "The best battle royale games on PC"
-msgstr "PC 上最好的大逃杀游戏"
+msgstr "The best battle royale games on PC"
 
 #: /content/amp-dev/404.html:15
 msgid "The page you've requested can't be found. Why don't you browse around?"
@@ -595,15 +604,17 @@ msgid ""
 "These photos capture how members of Congress reacted to Trump’s State of the "
 "Union"
 msgstr ""
+"These photos capture how members of Congress reacted to Trump’s State of the "
+"Union"
 
 #: /views/partials/experiments/experiments.j2:4
 msgid "This example uses the following experimental feature:"
-msgstr "这个例子使用了以下实验性功能："
+msgstr "此示例使用了以下实验性功能："
 
 #: /views/partials/sidebar-toggle-button.j2:6
 #: /views/partials/sidebar-toggle-button.j2:10
 msgid "Toggle Sidebar"
-msgstr ""
+msgstr "开关侧边栏"
 
 #: /views/partials/case-grid.j2:6
 msgid "Too much choice"
@@ -615,11 +626,11 @@ msgstr "工具"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/optimize-measure/configure-analytics/_blueprint.yaml
 msgid "Track engagement with analytics"
-msgstr ""
+msgstr "通过分析来追踪参与度"
 
 #: /content/amp-dev/about/stories.html
 msgid "USA Today"
-msgstr "今日美国"
+msgstr "USA Today"
 
 #: /content/amp-dev/404.html:14 /content/amp-dev/500.html:14
 msgid "Uh oh! That's an error."
@@ -627,7 +638,7 @@ msgstr "啊哦！出现了个错误。"
 
 #: /views/partials/footer.j2:44
 msgid "Use Cases"
-msgstr "使用案例"
+msgstr "用例"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/validation-workflow/_blueprint.yaml
 msgid "Validation Workflow"
@@ -639,7 +650,7 @@ msgstr "供应商贡献"
 
 #: /views/detail/template-detail.j2:102
 msgid "View Demo"
-msgstr "查看 Demo"
+msgstr "查看演示"
 
 #: /views/detail/template-detail.j2:113
 msgid "View code on GitHub"
@@ -647,7 +658,7 @@ msgstr "在 GitHub 上查看代码"
 
 #: /views/examples/documentation.j2:139
 msgid "View demo"
-msgstr "查看 demo"
+msgstr "查看演示"
 
 #: /views/partials/search.j2:145 /views/partials/search.j2:154
 msgid "We apologize for the inconvenience caused."
@@ -667,11 +678,11 @@ msgstr "你在寻找什么？"
 
 #: /content/amp-dev/about/stories.html
 msgid "What's left behind on the Moon?"
-msgstr "什么东西被遗留在月球上？"
+msgstr "What's left behind on the Moon?"
 
 #: /content/amp-dev/about/stories.html
 msgid "Who runs the world? ... Beyoncé over the years."
-msgstr ""
+msgstr "Who runs the world? ... Beyoncé over the years."
 
 #: /content/amp-dev/about/stories.html
 msgid "Wired"
@@ -679,7 +690,7 @@ msgstr "Wired"
 
 #: /content/amp-dev/community/working-groups/_blueprint.yaml
 msgid "Working Groups"
-msgstr ""
+msgstr "工作小组"
 
 #: /content/amp-dev/offline.html:15
 msgid "You're currently not connected to the internet."
@@ -690,7 +701,10 @@ msgid ""
 "You've read this document a dozen times but it doesn't really cover all of "
 "your questions? Maybe other people felt the same: reach out to them on Stack "
 "Overflow."
-msgstr "您已经多次阅读该资料但无法解决您的所有问题？也许其他人也这么觉得：在 Stack Overflow 上与他们取得联系"
+msgstr ""
+"您多次阅读的资料未能涵盖您的"
+"所有问题？也许其他人也这么觉得："
+"在 Stack Overflow 上与他们取得联系"
 
 #: /content/amp-dev/documentation/components/reference/amp-ad-exit-v0.1.md
 #: /content/amp-dev/documentation/components/reference/amp-ad-v0.1.md
@@ -758,7 +772,7 @@ msgstr "您已经多次阅读该资料但无法解决您的所有问题？也许
 #: /content/amp-dev/documentation/components/reference/amp-sticky-ad-v1.0.md
 #: /content/amp-dev/documentation/components/reference/amp-user-location-v0.1.md
 msgid "ads-analytics"
-msgstr ""
+msgstr "广告分析"
 
 #: /content/amp-dev/documentation/components/reference/amp-access-laterpay-v0.2.md
 #: /content/amp-dev/documentation/components/reference/amp-access-laterpay-v0.2@ar.md
@@ -867,7 +881,7 @@ msgstr ""
 #: /content/amp-dev/documentation/components/reference/amp-viewer-assistance-v0.1.md
 #: /content/amp-dev/documentation/components/reference/amp-web-push-v0.1.md
 msgid "dynamic-content"
-msgstr ""
+msgstr "动态内容"
 
 #: /content/amp-dev/documentation/components/reference/amp-accordion-v0.1.md
 #: /content/amp-dev/documentation/components/reference/amp-accordion-v0.1@ar.md
@@ -953,7 +967,7 @@ msgstr ""
 #: /content/amp-dev/documentation/components/reference/amp-sidebar-v0.1@zh_cn.md
 #: /content/amp-dev/documentation/components/reference/amp-sidebar-v1.0.md
 msgid "layout"
-msgstr ""
+msgstr "布局"
 
 #: /content/amp-dev/documentation/components/reference/amp-3d-gltf-v0.1.md
 #: /content/amp-dev/documentation/components/reference/amp-3d-gltf-v0.1@ar.md
@@ -1038,7 +1052,7 @@ msgstr ""
 #: /content/amp-dev/documentation/components/reference/amp-youtube-v0.1@tr.md
 #: /content/amp-dev/documentation/components/reference/amp-youtube-v0.1@zh_cn.md
 msgid "media"
-msgstr ""
+msgstr "媒体"
 
 #: /content/amp-dev/documentation/components/reference/amp-animation-v0.1.md
 #: /content/amp-dev/documentation/components/reference/amp-animation-v0.1@ar.md
@@ -1069,7 +1083,7 @@ msgstr ""
 #: /content/amp-dev/documentation/components/reference/amp-truncate-text-v0.1.md
 #: /content/amp-dev/documentation/components/reference/amp-viz-vega-v0.1.md
 msgid "presentation"
-msgstr ""
+msgstr "介绍"
 
 #: /content/amp-dev/documentation/components/reference/amp-addthis-v0.1.md
 #: /content/amp-dev/documentation/components/reference/amp-addthis-v0.1@ar.md
@@ -1097,57 +1111,57 @@ msgstr ""
 #: /content/amp-dev/documentation/components/reference/amp-vine-v0.1.md
 #: /content/amp-dev/documentation/components/reference/amp-vk-v0.1.md
 msgid "social"
-msgstr ""
+msgstr "社交"
 
 #: /views/partials/search.j2:153
 msgid "…while trying to load the search results."
-msgstr ""
+msgstr "...同时尝试加载搜索结果"
 
 #: frontend/templates/layouts/default.j2:129
 msgid "Sadly this page isn't translated yet, but we could use some help doing so. See the <a href="/documentation/guides-and-tutorials/contribute/translations">translation guide</a> on how you can contribute."
-msgstr ""
+msgstr "很遗憾，此页面尚未翻译，我们可能需要一些帮助。有关您能如何做出贡献，敬请参阅 <a href="/documentation/guides-and-tutorials/contribute/translations">翻译指南</a>。"
 
 #: frontend/templates/views/examples/documentation.j2:206
 msgid "If the explanations on this page don't cover all of your questions feel free to reach out to other AMP users to discuss your exact use case."
-msgstr ""
+msgstr "如果此页面的说明未能涵盖您的所有问题，欢迎与其他 AMP 用户取得联系，讨论您的具体用例。"
 
 #: frontend/templates/views/examples/documentation.j2:213
 msgid "The AMP project strongly encourages your participation and contributions! We hope you'll become an ongoing participant in our open source community but we also welcome one-off contributions for the issues you're particularly passionate about."
-msgstr ""
+msgstr "AMP 项目强烈鼓励您参与其中并作出贡献！我们希望您能成为我们开源社区的持续参与者，但我们也欢迎您对热衷的问题做出单次贡献。"
 
 #: frontend/templates/views/detail/component-detail.j2:33
 msgid "You've read this document a dozen times but it doesn't really cover all of your questions? Maybe other people felt the same  reach out to them on Stack Overflow."
-msgstr ""
+msgstr "您多次阅读的资料未能涵盖您的所有问题？也许其他人也这么觉得 在 Stack Overflow 上与他们取得联系"
 
 #: frontend/templates/views/partials/experiments/experiments.j2:4
 msgid "Enable the experiment via the button below. Some components require the AMP Dev Channel to be enabled as well."
-msgstr ""
+msgstr "通过下方按钮启用实验。某些组件需要同时启用 AMP Dev Channel。"
 
 #: frontend/templates/views/partials/structured-data.j2:54
 msgid "Example  "
-msgstr ""
+msgstr "示例"
 
 #: frontend/templates/views/partials/structured-data.j2:56
 msgid "Demo  "
-msgstr ""
+msgstr "演示"
 
 #: frontend/templates/views/partials/structured-data.j2:58
 msgid "Documentation  "
-msgstr ""
+msgstr "资料"
 
 #: frontend/templates/views/partials/structured-data.j2:60
 msgid "Success Story  "
-msgstr ""
+msgstr "成功案例"
 
 #: frontend/templates/views/partials/search.j2:140
 msgid "Although there are {hits} hits in total we cannot show more than 100.', hits='{'+'{result.totalResults}'+'}"
-msgstr ""
+msgstr "尽管总共有 {hits} 个匹配，但我们无法展示超过 100 个。', hits='{'+'{result.totalResults}'+'}"
 
 #: frontend/templates/views/partials/content.j2:24
 msgid "Important  this component does not support your currently selected format"
-msgstr ""
+msgstr "重要  该组件不支持您目前所选格式"
 
 #: pages/content/amp-dev/documentation/templates/index.html:112
 msgid "Get started quickly with a ready-made design. Templates designed to work with all devices - mobile, tablet and desktop."
-msgstr ""
+msgstr "使用现成的设计快速入门。模板适用于所有设备 - 手机，平板和电脑。"
 
